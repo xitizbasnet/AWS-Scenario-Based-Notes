@@ -378,5 +378,3 @@ For any AWS issue, apply the following structured approach:
 | AWS IAM Best Practices | [IAM Security Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html) |
 
 ---
-
-*📝 Document maintained by the IT Department | Last reviewed: 2026 | Format: GitHub Markdown*
